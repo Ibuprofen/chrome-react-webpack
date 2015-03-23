@@ -4,7 +4,7 @@ var root = path.join(__dirname, '..');
 var context = path.join(root, 'src');
 var clientDir = path.join(context, 'client');
 
-var modules = ['actions', 'store', 'ui', 'util'];
+var modules = ['ui', 'mixins'];
 var moduleDirectories = modules.map(function(mod) {
   return path.join(clientDir, mod);
 });
