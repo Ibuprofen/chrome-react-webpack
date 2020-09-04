@@ -11,7 +11,7 @@
   "dependencies": {
     "classnames": "^1.2.0",
     "es6-promise": "^2.0.1",
-    "react": "^0.13.1",
+    "react": "^0.14.9",
     "react-router": "^0.13.1",
     "reflux": "^0.2.7",
     "superagent": "^5.2.2"
